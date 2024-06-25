@@ -1,4 +1,4 @@
-![logo](Github banner.png)
+![logo](github banner.png)
 
 # 🚀 Welcome to My GitHub Profile! 🚀
 
