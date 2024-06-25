@@ -1,4 +1,4 @@
-![logo]([github banner.png](https://github.com/Haseeb1389446/Haseeb1389446/blob/main/github%20banner.png?raw=true))
+![logo](https://github.com/Haseeb1389446/Haseeb1389446/blob/main/github%20banner.png)
 
 # 🚀 Welcome to My GitHub Profile! 🚀
 
