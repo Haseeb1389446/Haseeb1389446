@@ -1,4 +1,4 @@
-![logo](https://github.com/haseeb51015/haseeb51015/blob/main/github%20banner.jpg.png)
+![logo](https://github.com/haseeb51015/haseeb51015/blob/main/github%20banner.png)
 
 # 🚀 Welcome to My GitHub Profile! 🚀
 
