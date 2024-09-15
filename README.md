@@ -10,7 +10,7 @@ Hey there! I'm Abdul Haseeb, a passionate frontend developer from pakistan. I lo
 
 - 💻 Programming Languages: JavaScript, PHP
 - 🌐 Web Technologies: HTML, CSS, JavaScript, json, PHP
-- 🛠️ Tools & Frameworks: Git/Github, bootstrap
+- 🛠️ Tools & Frameworks: Git/Github, bootstrap, Laravel
 - 🧩 Designs Technologies: Figma, canva 
 
 ## Projects
