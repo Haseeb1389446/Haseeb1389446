@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hey there! I'm Abdul Haseeb, a passionate frontend developer from pakistan. I love coding, experimenting with new technologies, and building cool stuff.
+Hey there! I'm Abdul Haseeb, a passionate full stack developer from pakistan. I love coding, experimenting with new technologies, and building cool stuff.
 
 ## Skills
 
