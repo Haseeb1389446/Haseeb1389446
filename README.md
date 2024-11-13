@@ -28,5 +28,5 @@ Feel free to explore more on my [GitHub Repositories]([link-to-github](https://g
 Let's connect! You can find me on:
 
 - 📧 Email: [haseeb51015@gmail.com](haseeb51015@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- 💼 LinkedIn: [Your LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/abdul-haseeb-fullstack-developer-b2846b314/))
 - 🌐 Website: [Your Personal Website](link-to-website)
