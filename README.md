@@ -17,7 +17,7 @@ Hey there! I'm Abdul Haseeb, a passionate full stack developer from pakistan. I 
 
 Here are a few projects I'm proud of:
 
-1. [Project 1](link-to-project-1): Short description of project 1.
+1. [RichField Chairs](https://github.com/Haseeb1389446/RichField-Chairs): This is a full flecth Frontend E Commerce Website.
 2. [Project 2](link-to-project-2): Short description of project 2.
 3. [Project 3](link-to-project-3): Short description of project 3.
 
