@@ -4,14 +4,19 @@
 
 ## About Me
 
-Hey there! I'm Abdul Haseeb, a passionate full stack developer from pakistan. I love coding, experimenting with new technologies, and building cool stuff.
+Hey there! I'm Abdul Haseeb, a passionate full stack Software Engineer from pakistan. I love coding, experimenting with new technologies, and building cool stuff.
 
 ## Skills
 
-- 💻 Programming Languages: JavaScript, PHP
-- 🌐 Web Technologies: HTML, CSS, JavaScript, json, PHP
-- 🛠️ Tools & Frameworks: Git/Github, bootstrap, Laravel
-- 🧩 Designs Technologies: Figma, canva 
+- 💻 Programming Languages: JavaScript, PHP, C#
+
+- 🌐 Web Technologies: HTML, CSS, JavaScript, JSON, PHP
+
+- 🛠️ Frameworks & Tools: Laravel, ASP.NET Core, Angular, Bootstrap, Git/GitHub
+
+- 🗄️ Databases: MySQL, SQL Server
+
+- 🎨 Design Technologies: Figma, Canva
 
 ## Projects
 
