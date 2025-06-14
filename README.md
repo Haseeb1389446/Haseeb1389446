@@ -22,7 +22,7 @@ Hey there! I'm Abdul Haseeb, a passionate full stack developer from pakistan. I 
 
 Here are a few projects I'm proud of:
 
-1. [RichField Chairs](https://github.com/Haseeb1389446/RichField-Chairs): This is a full flecth frontend E Commerce website build with HTML, CSS and JS..
+1. [RichField Chairs](https://github.com/Haseeb1389446/RichField-Chairs): This is a full flecth frontend E Commerce website build with HTML, CSS and JS.
 2. [Ask Flow](https://github.com/Haseeb1389446/Ask-Flow-Platform): This is a Dynamic Q/A Platform with clean UI and
 much features build with PHP, SQL, HTML, CSS, and Bootstrap.
 3. [Institute of Fine Arts](https://github.com/Haseeb1389446/Institute-of-Fine-Arts): A role-based management system built with ASP.NET Core, SQL Server, HTML, and CSS. It includes user authentication, category management, and dynamic dashboards for Admin, Teacher, and Student roles.
