@@ -33,6 +33,6 @@ Feel free to explore more on my [GitHub Repositories]([link-to-github](https://g
 
 Let's connect! You can find me on:
 
-- 📧 Email: [haseeb51015@gmail.com](haseeb51015@gmail.com)
+- 📧 Email: [haseeb1389446@gmail.com](haseeb1389446@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/abdulhaseeb-developer/](https://www.linkedin.com/in/abdulhaseeb-developer/)
 - 🌐 Website: [Your Personal Website](link-to-website)
